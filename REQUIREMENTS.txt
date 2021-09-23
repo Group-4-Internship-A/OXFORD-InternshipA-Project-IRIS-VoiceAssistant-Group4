@@ -1,0 +1,19 @@
+Requirements (M O D U L E S)
+1 - os
+2 - googlesearch
+3 - pyttsx3
+4 - pyaudio
+5 - datetime
+6 - pywhatkit
+7 - numpy
+8 - [local] News_headlines 
+9 - pypdf2
+10 - wikipedia
+11 - speech_recognition
+12 - [local] jokes
+13 - [local] Weather_fetcher
+14 - PIL
+15 - tkinter
+16 - smtplib
+17 - webbrowser
+18 - time
