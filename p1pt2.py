@@ -170,7 +170,7 @@ def core():
             sea = rec_user()
             speak('Give me a moment' + nme)
             result = ""
-            webbrowser.open(sea)
+            pw.search(sea)
             
             return
         elif 'read a pdf document' in user_response.lower() or 'read a pdf file' in user_response.lower():
