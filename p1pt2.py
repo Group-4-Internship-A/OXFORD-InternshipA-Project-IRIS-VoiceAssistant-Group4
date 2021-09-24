@@ -25,8 +25,8 @@ def sendEmail(to, content):
     server.ehlo()
     server.starttls()
      
-    server.login('singhrithvik2016@gmail.com', 'Rithvik_2609')
-    server.sendmail('singhrithvik2016@gmail.com', to, content)
+    server.login('<your email ID>', 'email password')
+    server.sendmail('<your email ID>', to, content)
     server.close()
 
 def setup():
