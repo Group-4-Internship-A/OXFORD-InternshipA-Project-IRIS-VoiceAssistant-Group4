@@ -3,4 +3,8 @@ The primary project that I, Rithvik, worked on during this internship is an AI d
 
 IRIS features a plethora of functionalities you can vocally trigger. This application has a special emphasis on the not-so-tech-savvy demographic, such as the old-aged, or visually impaired. IRIS helps bridge the gap inherent between specialized demographics in the technological domain, and the novice demographic, subsequently contributing to an automated way of life, that we are bound to transition to.
 
+![image](https://user-images.githubusercontent.com/90949448/134624606-a401215c-a283-43a6-a799-2bcdc7c5233e.png)
+
+![image](https://user-images.githubusercontent.com/90949448/134624525-36b601cb-5066-4d75-b9a3-47792a2da767.png)
+
 Thanks 4 the read :)
