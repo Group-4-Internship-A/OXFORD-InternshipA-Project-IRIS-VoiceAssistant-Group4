@@ -152,7 +152,7 @@ def core():
             sea = rec_user()
             speak('Give me a moment' + nme)
             results = wk.summary(sea,sentences=15)
-
+            
             subroot = Tk()
             subroot.configure(bg = 'black')
             s1 = Label(subroot, text = results)
@@ -160,7 +160,7 @@ def core():
             s1.config(bg = 'white')
             subroot.geometry('800x600')
             subroot.mainloop()
-            
+            speak(wk.summary(sea,sentences=15))
 
             subroot.destroy()
             
