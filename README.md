@@ -7,4 +7,4 @@ IRIS features a plethora of functionalities you can vocally trigger. This applic
 
 ![image](https://user-images.githubusercontent.com/90949448/134624525-36b601cb-5066-4d75-b9a3-47792a2da767.png)
 
-Thanks 4 the read :)
+
