@@ -8,11 +8,11 @@ numpy
 News_headlines 
 pypdf2
 wikipedia
-11 - speech_recognition
-12 - [local] jokes
-13 - [local] Weather_fetcher
-14 - PIL
-15 - tkinter
-16 - smtplib
-17 - webbrowser
-18 - time
+speech_recognition
+jokes
+Weather_fetcher
+PIL
+tkinter
+smtplib
+webbrowser
+time
