@@ -1,9 +1,9 @@
 os
-2 - googlesearch
-3 - pyttsx3
-4 - pyaudio
-5 - datetime
-6 - pywhatkit
+googlesearch
+pyttsx3
+pyaudio
+datetime
+pywhatkit
 7 - numpy
 8 - [local] News_headlines 
 9 - pypdf2
