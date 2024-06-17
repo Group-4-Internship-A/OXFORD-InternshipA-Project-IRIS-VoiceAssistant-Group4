@@ -4,10 +4,10 @@ pyttsx3
 pyaudio
 datetime
 pywhatkit
-7 - numpy
-8 - [local] News_headlines 
-9 - pypdf2
-10 - wikipedia
+numpy
+News_headlines 
+pypdf2
+wikipedia
 11 - speech_recognition
 12 - [local] jokes
 13 - [local] Weather_fetcher
