@@ -1,5 +1,4 @@
-Requirements (M O D U L E S)
-1 - os
+os
 2 - googlesearch
 3 - pyttsx3
 4 - pyaudio
